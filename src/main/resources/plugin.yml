@@ -1,0 +1,4 @@
+name: Main
+version: ${project.version}
+main: d.plugin.main.Main
+api-version: 1.13
